@@ -1,12 +1,8 @@
-![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunu&label=Profile%20views&color=0e75b6&style=flat" alt="dhunu" />
 
 <h1 align="center">Hi 👋, I'm Ankush Singh</h1>
-<h3 align="center">A passionate Java-Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h3 align="center">A motivated Java Developer from India.</h3>
 
-
-
-# 💫 About Me:
 - 🔭 I’m currently working on **Spring Boot CRUD App !**
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io/)
@@ -17,25 +13,83 @@
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1R89xip7ROMBDn_79ZebvaqvSxOe_Oo80/view?usp=sharing)
 
-
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/angel-saikia/" target="_blank">
-    <img src="https://www.linkedin.com/in/ankush-singh-833251217/>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankush-singh-833251217/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ankushsin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankushsin&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</p>
 
-### ✍️ Random Dev Quote
+<h2 align="center">My Tech Stacks: </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,css,firebase,hibernate,html,java,js,kotlin,maven,mysql,py" />
+  </a>
+</p>
+
+<h2 align="center">Tools and Software: </h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,idea,netlify,postman,spring" />
+  </a>
+</p>
+
+
+<!-- <div style="display="flex"; flex-direction="row";">
+  
+  <img width="49%" height="auto" src="https://youtube-stats-card.vercel.app/api?channelid=UCb-X45E2VQk6D55xtgc2i4Q&theme=dark"/>
+
+  <img height="auto" width="47%" src="./Twitter_Stats.svg"/>
+  
+</div> -->
+
+<h2 align="center">Wakatime Stats:</h2>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2052%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Java                     10 hrs 3 mins       ████████████████░░░░░░░░░   64.82 % 
+Other                    2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Properties               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+XML                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+
+
+<!--END_SECTION:waka-->
+
+<h2 align="center" >Github Stats: </h2>
+
+<div align="center" style="display=flex; flex-direction=row">
+
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
+  
+  <img height=180px src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsin&layout=compact&theme=vision-friendly-dark"/>
+  
+  <img height=180px src="https://github-readme-stats.vercel.app/api?username=ankushsin&show_icons=true&theme=vision-friendly-dark"/>
+  
+  <img height=180px src="https://streak-stats.demolab.com/?user=ankushsin&theme=vision-friendly-dark"/>
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankushsin" alt="ankushsin" /></a> </p>
+  
+<!--   <img height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=dhunu&theme=vision-friendly-dark"/> -->
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ankushsin&bg_color=000000&color=5cb8ff&line=208bfe&point=8bfee7&area=true&hide_border=true)](https://github.com/ankushsin/github-readme-activity-graph)
+
+<p align="center">
+<h2> ✍️ Random Dev Quote </h2>
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> -->
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ankushsin&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
