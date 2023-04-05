@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 I’m currently working on SpringBoot, Maven, CRUD App<br>👯 I’m looking to collaborate on Different types of Projects<br>🤝 I’m looking for help with Java, Spring, JDBC, MySql<br>🌱 I’m currently learning Java, Spring Securities<br>💬 Ask me about Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript<br>⚡ Fun fact I love learning new Tech
+🔭 I’m currently working on SpringBoot, Maven, CRUD App<br>👯 I’m looking to collaborate on Different types of Projects<br>🤝 I’m looking for help with Java, Spring, JDBC, MySql<br>🌱 I’m currently learning Java, Spring Securities<br>💬 Ask me about Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript<br>⚡ Fun fact I love learning new Tech<br> 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io/) <br>📫 How to reach me **ankushsingh24121999@gmail.com**<br>📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1R89xip7ROMBDn_79ZebvaqvSxOe_Oo80/view?usp=sharing)
+
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://www.linkedin.com/in/ankush-singh-833251217/" />
+  </a>
+
+</p>
+
 
 
 # 💻 Tech Stack:
