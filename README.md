@@ -3,8 +3,11 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="" target="_blank">
-    <img src="https://www.linkedin.com/in/ankush-singh-833251217/" />
+  <a href="https://www.linkedin.com/in/ankush-singh-833251217/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:ankushsingh24121999@gmail.com" target="_blank">
+    <img width="50px"  src="https://png.pngtree.com/template/20190725/ourmid/pngtree-gmail-logo-png-image_282635.jpg" />
   </a>
 
 </p>
