@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Spring Boot CRUD App !**
 
-- 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io/)
+- 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io)
 
 - 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
