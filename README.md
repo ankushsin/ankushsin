@@ -1,6 +1,6 @@
  ### Hi there, I'm Ankush Singh 👋  
 <img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width=40%>
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;&left=true&width=400&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&left=true&width=400&height=50">
 # 💫 About Me:
 - 🔭 I’m currently working on **Spring Boot CRUD App !**
 
