@@ -1,10 +1,10 @@
  ### Hi there, I'm Ankush Singh 👋  
 <img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width=40%>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&left=true&width=400&height=50">
-<h4>
-💫 About Me: Aspiring Java Backend developer, having problem-solving ability and proficiency in Backend
+<h3><b>💫 About Me: Aspiring Java Backend developer, having problem-solving ability and proficiency in Backend.</b>
+
  
-</h2>
+</h3>
 
 
 - 🔭 I’m currently working on **Spring Security !**
