@@ -2,9 +2,11 @@
 <img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width=40%>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&left=true&width=400&height=50">
 # 💫 About Me:
-- 🔭 I’m currently working on **Spring Boot CRUD App !**
+- 🔭 I’m currently working on **Spring Security !**
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io/)
+
+- 📟 I  Practice DSA at [leetcode](https://leetcode.com/ankushsingh24121999/)
 
 - 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
