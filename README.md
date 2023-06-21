@@ -1,7 +1,12 @@
  ### Hi there, I'm Ankush Singh 👋  
 <img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width=40%>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&left=true&width=400&height=50">
-# 💫 About Me:
+<h4>
+💫 About Me: Experienced Java Developer with 1200+ hours of coding experience at Masai School. Solid knowledge of Hibernate, JPA, RDBMS, and SpringBoot. Successfully completed backend projects like the Covid-19 vaccination system and Risk Management System using MySQL, Spring Framework, Java, JDBC, and Hibernate. Developed responsive websites using HTML, CSS, and JavaScript, including cloning popular sites like KissFlow and Shop.com. Ambitious, enthusiastic, and well-organized, constantly expanding knowledge in backend and frontend development.
+ 
+</h2>
+
+
 - 🔭 I’m currently working on **Spring Security !**
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io/)
