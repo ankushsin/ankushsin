@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://ankushsin.github.io/)
 
-- 📟 I  Practice DSA at [leetcode](https://leetcode.com/ankushsingh24121999/)
+- 📟 I  Practice DSA at [**leetcode**](https://leetcode.com/ankushsingh24121999/)
 
 - 💬 Ask me about **Java, SQL, Hibernate, Spring Framework, HTML, CSS, Javascript**
 
