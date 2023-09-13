@@ -42,11 +42,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankushsin&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsin&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankushsin&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankushsin&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankushsin&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">   
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankushsin&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center"><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ankushsin&icon=0&color=0)](https://visitcount.itsvg.in)
