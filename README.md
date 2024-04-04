@@ -1,7 +1,7 @@
  ### Hi there, I'm Ankush Singh 👋  
 <img align='right' src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width=40%>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;&left=true&width=400&height=50">
-<h3><b>💫 About Me: Aspiring Java Backend developer, having problem-solving ability and proficiency in Backend.</b>
+<h3><b>💫 About Me: Aspiring Java Backend developer, having problem-solving ability and proficiency in the Backend.</b>
 
  
 </h3>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankushsingh24121999@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1R89xip7ROMBDn_79ZebvaqvSxOe_Oo80/view?usp=share_link)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1MeVecLDEANFxHZEzzxA_SedctGmNEWlm/view?usp=sharing)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
