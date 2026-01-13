@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ankushsingh24121999@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1MeVecLDEANFxHZEzzxA_SedctGmNEWlm/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1VPudxNeZskLy8UUaAr4Z7oAZeFGZoH3I/view?usp=sharing)
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
